@@ -1,6 +1,6 @@
 # 🌍 3D Reconstruction -- From Pixel to the World
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv&logoColor=white)](https://opencv.org/)
 [![License](https://img.shields.io/badge/License-MIT-purple)](LICENSE)
 
@@ -31,3 +31,4 @@ The pipeline is divided into modular steps:
 
 ### 1. Clone the repository
 ```bash
+git clone https://github.com/saturnin-robotics/Reconstruction3D.git
